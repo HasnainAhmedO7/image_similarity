@@ -1,0 +1,7 @@
+llm
+rich
+chromadb
+streamlit
+watchdog
+numpy
+pandas
