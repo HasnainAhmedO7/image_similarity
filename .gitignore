@@ -1,0 +1,6 @@
+Khaadi envelope
+*.chromadb
+**/__pycache__**/
+venv
+rename.py
+*.zip
